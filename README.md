@@ -24,11 +24,11 @@ app.py → Handles user input, AI processing, and output generation.
 
 Clone the repository:
 
-git clone https://github.com/Sneha verma/your-repo-name.git
+git clone https://github.com/sneha-verma123/AI-Powered-Personalized-Study-Planner.git
 
 Navigate into the project directory:
 
-cd your-repo-name
+cd AI-Powered-Personalized-Study-Planner
 
 Install required libraries:
 
@@ -46,3 +46,5 @@ Available time
 The application processes the input using a Transformer-based model.
 AI generates a personalized study plan.
 The plan is displayed through the Gradio interface.
+Author 
+Sneha Verma
