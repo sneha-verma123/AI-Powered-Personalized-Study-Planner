@@ -46,5 +46,7 @@ Available time
 The application processes the input using a Transformer-based model.
 AI generates a personalized study plan.
 The plan is displayed through the Gradio interface.
-Author 
+
+
+#Author 
 Sneha Verma
